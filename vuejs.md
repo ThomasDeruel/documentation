@@ -46,5 +46,5 @@ var app2 = new Vue({
 })
 ```
 
-L'attribut `v-bind` est appelée une **directive**.Les directives sont toujours
+L'attribut `v-bind` est appelé une **directive**.Les directives sont toujours
 préfixées par `v-` pour indiquer qu'on utilise des attributs spécifiques à vue.
