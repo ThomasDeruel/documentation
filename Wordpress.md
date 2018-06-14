@@ -22,16 +22,15 @@ prérequis :
   4. Dans votre ligne de commande, dirigez-vous dans votre répertoire ou se trouve votre dossier contant le Wordpress
   et entrant la commande `php -S localhost:8000`. Une fois cela fait, ouvrez un navigateur et saisisser dans l'url l'adressage suivante `localhost:8000/votreDossierWp`, et voila le résultat
 
-  ![intro Wordpress](https://image.noelshack.com/fichiers/2018/09/6/1520091348-sans-titre.jpg)
+ ![debut](https://image.noelshack.com/fichiers/2018/24/4/1529006798-zzz.jpg)
 
   5. Une fois avoir cliquer sur `C'est parti` vous devez **remplir les champs** avec votre bdd que vous avez créer précédemment ainsi que le *nom* et *mdp* (de base `root`), laissez le localhost tel quel et **changer le préfixe des tables** absolument. Une fois cela fait, valider et **lancez l'installation**.
 
-  ![détail de connexion](https://image.noelshack.com/fichiers/2018/09/6/1520091918-sans-titre.jpg)
-  ![lancer l'Installation](https://image.noelshack.com/fichiers/2018/09/6/1520092090-sans-titre.jpg)
+  ![détail de connexion](https://image.noelshack.com/fichiers/2018/24/4/1529007180-zzz.jpg)
 
   6. Remplissez les champs demander et installez Wordpress
 
-  ![saisir champs](https://image.noelshack.com/fichiers/2018/09/6/1520092237-sans-titre.jpg)
+  ![saisir champs](https://image.noelshack.com/fichiers/2018/24/4/1529007583-form.jpg)
 
   7. Et voila fini, enfin presque ...
 
